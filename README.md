@@ -1,7 +1,7 @@
 ### Hi there! I'm Matheus! 👋
 
 
-- 🔭 I’m currently studying System Analysis and Development at FIAP
+- 🔭 I’m currently studying System Analysis and Development at Fatec Carapicuíba
 - 🌱 I’m currently learning Java and JavaScript
 - 👯 I’m looking to collaborate on personal projects and university projects
 - 💬 Ask me about anything!
