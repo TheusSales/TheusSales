@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Java and JavaScript
 - 👯 I’m looking to collaborate on personal projects and university projects
 - 💬 Ask me about anything!
-- 😄 Pronouns: he/his
 - ⚡ Fun fact: I really like to meet new people!
 
 
