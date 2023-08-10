@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently studying System Analysis and Development at Fatec Carapicuíba
-- 🌱 I’m currently learning Java and JavaScript
+- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to practice with personal projects and university projects
 - ⚡ Fun fact: I love to play guitar!
 
